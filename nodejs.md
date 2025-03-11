@@ -3,9 +3,7 @@
 2. Click the Download button
 3. Double-click the downloaded file to install Chrome
 
----
-
-### Troubleshooting
+## Troubleshooting
 On Windows, if you run `npm`, you might get an error like this:
 ```powershell
 npm : File C:\Program Files\nodejs\npm.ps1 cannot be loaded because running scripts is disabled on this system.
